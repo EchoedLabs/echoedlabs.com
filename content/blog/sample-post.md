@@ -1,8 +1,8 @@
 ---
-title: "Web Development Bootcamp @ Madrasah Al-Irsyad"
-date: 2015-12-12T14:51:12+06:00
+title: "Sample Post"
+date: 2018-10-12T14:51:12+06:00
 author: John Doe
-image: images/programmes/dec15_webdev_main.jpg
+image: images/programmes/oct18_chatbot_main.jpg
 ---
 
 Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Mauris blandit aliquet elit, eget tincidunt nibh pulvinar a.

@@ -12,7 +12,7 @@ portfolioItem :
   - types : intro
     image : images/programmes/oct18_chatbot_main.jpg
     icon : tf-ion-android-search
-    URL : blog/intro-chatbots-oct-2018
+    URL : #
     title : Intro to Chatbots
     description : We introduced chatbot development using Chatfuel to primary school students at Bukit Batok East CC.
     date: October 2018
@@ -24,7 +24,7 @@ portfolioItem :
   - types : intro
     image : images/programmes/may18_webdev_main.jpg
     icon : tf-ion-android-search
-    URL : blog/intro-webdev-mtc-may-2018
+    URL : #
     title : Intro to Web Development
     description : This programme introduces the building blocks of web development with HTML, CSS, Javascript, and Bootstrap framework.
     date: May 2018
@@ -36,7 +36,7 @@ portfolioItem :
   - types : intro
     image : images/programmes/dec17_webdev_main.jpg
     icon : tf-ion-android-search
-    URL : blog/intro-webdev-mendaki-dec-2017
+    URL : #
     title : Intro to Web Development
     description : This programme introduces the building blocks of web development with HTML, CSS, Javascript, and Bootstrap framework.
     date: December 2017
@@ -48,7 +48,7 @@ portfolioItem :
   - types : bootcamp
     image : images/programmes/jun17_webdev_codette_main.jpg
     icon : tf-ion-android-search
-    URL : blog/webdev-bootcamp-codette-jun-2017
+    URL : #
     title : Web Development Bootcamp
     description : This was a 3-days programme that equipped the participants with HTML, CSS, Javascript, and Bootstrap framework skills.
     date: June 2017
@@ -60,7 +60,7 @@ portfolioItem :
   - types : intro
     image : images/programmes/jun17_webdev_mendaki_main.jpg
     icon : tf-ion-android-search
-    URL : blog/intro-webdev-mendaki-jun-2017
+    URL : #
     title : Intro to Web Development
     description : This programme introduces the building blocks of web development with HTML, CSS, Javascript, and Bootstrap framework.
     date: June 2017
@@ -72,7 +72,7 @@ portfolioItem :
   - types : bootcamp
     image : images/programmes/dec16_webdev_main.jpg
     icon : tf-ion-android-search
-    URL : blog/webdev-bootcamp-muhajirin-dec-2016
+    URL : #
     title : Web Development Bootcamp
     description : This was a 3-day stay-in camp that equipped the participants with HTML, CSS, Javascript, and Bootstrap framework skills.
     date: December 2016
@@ -84,7 +84,7 @@ portfolioItem :
   - types : bootcamp
     image : images/programmes/dec15_webdev_main.jpg
     icon : tf-ion-android-search
-    URL : blog/webdev-bootcamp-irsyad-dec-2015
+    URL : #
     title : Web Development Bootcamp
     description : This was a 3-days day camp that equipped the participants with HTML, CSS, Javascript, and Bootstrap framework skills.
     date: December 2015
