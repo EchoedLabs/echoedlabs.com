@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "EchoedLabs - Empowering Youths with Tech Solutioning Skills"
 
 theme = "meghna-hugo"
+
+googleAnalytics = "UA-131583492-2"
+
 # Menu
 [menu]
     [[menu.nav]]
