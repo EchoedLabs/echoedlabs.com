@@ -1,0 +1,39 @@
+{{ if .Site.Data.featured.enable }}
+{{"<!-- Featured Course -->" | safeHTML }}
+<section id="featured-section" class="parallax-section section section-bg overly" style='background: url("{{ .Site.Data.featured.bgImage | absURL }}") no-repeat center center fixed; background-size: cover;'>
+    <div class="container">
+        <div class="row">
+            {{"<!-- section title -->" | safeHTML }}
+            <div class="col-md-12">
+                <div class="title text-center">
+                    <h2>{{ with .Site.Data.featured.heading}} {{ . }} {{ end }} <span class="color">{{ with .Site.Data.featured.headingSpan }} {{ . }} {{ end }}</span></h2>
+                    <div class="border"></div>
+                </div>
+            </div>
+            {{"<!-- /section title -->" | safeHTML }}
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <img class="img-responsive" src="{{ .Site.Data.featured.image | absURL }}" alt="image">
+            </div>
+            <div class="col-md-6">
+                <div class="featured-course-content">
+			{{ with .Site.Data.featured.title }} <h2> {{ . }} </h2> {{ end }}
+			{{ with .Site.Data.featured.content }} <p> {{ . }} </p> {{ end }}
+                        <ul class="list-unstyled list-check">
+                        {{ range .Site.Data.featured.skills }}
+                            <li><strong>{{ .title }}</strong> <p>{{ .content }}<p></li>
+                        {{ end }}
+                        </ul>
+                        <div class="featured-bottom">
+                            <a class="btn btn-transparent btn-default" href="{{ .Site.Data.featured.btnURL | absURL }}">{{ .Site.Data.featured.btnText }}</a>
+                            <p>Enrolment Ends<span>{{ .Site.Data.featured.enrolEndDate }}</span></p>
+                        </div>
+                    </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+{{"<!-- /featured -->" | safeHTML }}
+{{ end }}
