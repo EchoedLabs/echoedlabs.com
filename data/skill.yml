@@ -1,0 +1,27 @@
+enable : false
+heading : Featured
+headingSpan : Course
+title : CodeHero @ Madrasah SG
+content : This is a year-long programme targetted to secondary school students in Madrasah that aims to equip them with essential web development skills.
+image : images/programmes/codehero_main.png
+
+#skillItem :
+#  - itemNumber : 01-
+#    itemName :  Learn Development Skills
+#    itemPercent : 90%
+    
+#  - itemNumber : 02-
+#    itemName :  Analysis
+#    itemPercent : 70%
+    
+#  - itemNumber : 03-
+#    itemName :  Design
+#    itemPercent : 80%
+    
+#  - itemNumber : 04-
+#    itemName :  IOS Development
+#    itemPercent : 95%
+    
+#  - itemNumber : 05-
+#    itemName :  Andriod Development
+#   itemPercent : 75%

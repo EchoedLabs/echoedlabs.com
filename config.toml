@@ -1,0 +1,81 @@
+baseURL = "https://echoedlabs.com/"
+languageCode = "en-us"
+title = "EchoedLabs - Empowering Youths with Tech Solutioning Skills"
+
+theme = "meghna-hugo"
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "About"
+    URL = "about"
+    weight = 2
+    
+    [[menu.nav]]
+    name = "Courses"
+    URL = "services"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo2.png"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-m0gnUBkjmhoQyNyd7nllA"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/teaching.jpg"
+    showIcon = false
+    icon = "tf-ion-play"
+    heading = "Empowering Youths with Tech Solutioning Skills"
+    content= "We equip youths with tech skills that they can apply to create value in whatever field they are in!"
+    btn = true
+    btnText="Learn More"
+    btnURL="#about"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "Engaging Workshops and Effective Bootcamps"
+    content = "We have been running coding workshops and bootcamps for children, teens and adults alike."
+    btnURL = "#contact-us"
+    btnText = "Book a customised course with us"
+
+    # counter
+    [params.counter]
+    enable = false
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Students Taught"
+        icon = "tf-ion-android-happy"
+        count = "320"
+
+        [[params.counter.counterItem]]
+        title = "Courses Conducted"
+        icon = "tf-ion-archive"
+        count = "12"
+
+        [[params.counter.counterItem]]
+        title = "Happy Partners"
+        icon = "tf-ion-thumbsup"
+        count = "7"
+
+    # footer
+    [params.footer]
+        copyright = "EchoedLabs LLP"
+        copyrightURL = "http://www.echoedlabs.com"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "https://www.facebook.com/echoedlabs/"
+        
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-instagram"
+        url = "https://www.instagram.com/echoedlabs/"

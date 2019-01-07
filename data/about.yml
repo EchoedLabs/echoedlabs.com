@@ -1,0 +1,15 @@
+enable : true
+heading : Why
+headingSpan : EchoedLabs?
+aboutItem : 
+- icon : tf-tools
+  title : Beginner-Friendly
+  content : Our programmes are designed with the assumption that our learners have no prior tech knowledge. We will guide you step-by-step towards becoming a coder.
+
+- icon : tf-strategy
+  title : Community-Centric
+  content : Our learners and facilitators are connected beyond classroom via our virtual communication platform to support each other in continuous learning
+
+- icon : tf-anchor2
+  title : Project-Based
+  content : Our hands-on project-based approach makes our learners feel more confident of applying what they have learnt on their own, and also provide them with immediate portfolio projects.

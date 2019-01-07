@@ -1,0 +1,20 @@
+enable : true
+heading : Let's get to know each
+headingSpan : other
+title : Contact Details
+content : Interested to know more about our courses or just wanna chat with us? Feel free to drop us a message and become a part of the EchoedLabs Community today!
+enable_maps : false
+mapLatitude : 1.3521
+mapLongitude: 103.8198
+contactDetails :
+  - icon : tf-map-pin
+    info : "22 Sin Ming Lane #06-76, Midview City, Singapore 573969"
+    
+#  - icon : tf-ion-ios-telephone-outline
+#    info : "Phone: +880-31-000-000"
+    
+#  - icon : tf-ion-iphone
+#    info : "Fax: +880-31-000-000"
+    
+  - icon : tf-ion-ios-email-outline
+    info : "Email: admin@echoedlabs.com"

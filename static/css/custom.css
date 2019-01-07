@@ -1,0 +1,28 @@
+.rounded-circle {
+    border-radius: 50%!important;
+}
+.trainer-profile {
+    margin-top: 0.5em;
+}
+.trainer-profile > img {
+    float: left;
+    height: 3em;
+    margin-right: 15px;
+    width: 3em;
+}
+.trainer-profile > .trainer-info {
+    overflow: hidden;
+    float: left;
+}
+.trainer-profile > .trainer-info > h3 {
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 8px 0 0;
+}
+.trainer-profile > .trainer-info > p {
+    font-size: 12px;
+    margin: 0;
+}
+

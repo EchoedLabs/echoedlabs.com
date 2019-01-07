@@ -1,0 +1,20 @@
+enable : true
+heading : Featured
+headingSpan : Course
+title : CodeHero @ Madrasah SG
+content : This is a year-long programme targetted to secondary school students in Madrasah that aims to equip them with essential web development skills.
+image : images/programmes/codehero_main.png
+btnText : Enrol in this course!
+btnURL : https://tinyurl.com/codeherosg
+enrolEndDate : 15 Jan 2019
+skills :
+  - title : Learn Development Skills
+    content : Learners will be equipped with  essential web development skills, from UI development, to database management.
+
+  - title : Strong Support
+    content : Learners can get the support they need with our high learner-to-facilitator ratio of 5:1.
+
+  - title : Solution-Centric
+    content : Learners will be instilled with the mindset of creating solutions that matter, and will get the chance to build and deploy web solutions of their own that tackles real-world problems.
+
+

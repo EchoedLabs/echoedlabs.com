@@ -1,0 +1,87 @@
+enable : true
+heading : Past
+headingSpan : Programmes
+filterList :    
+  - filterType : intro
+    filterTitle : Introductory
+    
+  - filterType : bootcamp
+    filterTitle : Bootcamp
+
+portfolioItem :
+  - types : intro
+    image : images/programmes/oct18_chatbot_main.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Intro to Chatbots
+    description : We introduced chatbot development using Chatfuel to primary school students at Bukit Batok East CC.
+    date: October 2018
+    partner:
+        name: Bukit Batok CC
+        image: images/partners/bukit_batok.jpg
+    
+  - types : intro
+    image : images/programmes/may18_webdev_main.jpg
+    icon : tf-ion-android-search
+    URL : blog/first-post
+    title : Intro to Web Development
+    description : This programme introduces the building blocks of web development with HTML, CSS, Javascript, and Bootstrap framework.
+    date: May 2018
+    partner:
+        name: Mosque Tech Challenge
+        image: images/partners/mosque_tech_challenge.jpg
+    
+  - types : intro
+    image : images/programmes/dec17_webdev_main.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Intro to Web Development
+    description : This programme introduces the building blocks of web development with HTML, CSS, Javascript, and Bootstrap framework.
+    date: December 2017
+    partner:
+        name: Mendaki Sense
+        image: images/partners/mendaki_sense.jpg
+    
+  - types : bootcamp
+    image : images/programmes/jun17_webdev_codette_main.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Web Development Bootcamp
+    description : This was a 3-days programme that equipped the participants with HTML, CSS, Javascript, and Bootstrap framework skills.
+    date: June 2017
+    partner:
+        name: The Codette Project
+        image: images/partners/codette.jpg
+    
+  - types : intro
+    image : images/programmes/jun17_webdev_mendaki_main.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Intro to Web Development
+    description : This programme introduces the building blocks of web development with HTML, CSS, Javascript, and Bootstrap framework.
+    date: June 2017
+    partner:
+        name: Mendaki Sense
+        image: images/partners/mendaki_sense.jpg
+    
+  - types : bootcamp
+    image : images/programmes/dec16_webdev_main.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Web Development Bootcamp
+    description : This was a 3-day stay-in camp that equipped the participants with HTML, CSS, Javascript, and Bootstrap framework skills.
+    date: December 2016
+    partner:
+        name: Muhajirin Mosque
+        image: images/partners/muhajirin.jpg
+    
+  - types : bootcamp
+    image : images/programmes/dec15_webdev_main.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Web Development Bootcamp
+    description : This was a 3-days day camp that equipped the participants with HTML, CSS, Javascript, and Bootstrap framework skills.
+    date: December 2015
+    partner:
+        name: Madrasah Al-Irsyad
+        image: images/partners/irsyad.jpg
