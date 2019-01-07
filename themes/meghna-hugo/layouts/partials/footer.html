@@ -54,3 +54,14 @@
 <script type="text/javascript" src="{{ "plugins/wow/dist/wow.min.js" | absURL}}"></script>
 {{"<!-- Custom js -->" | safeHTML}}
 <script type="text/javascript" src="{{ "js/script.js" | absURL}}"></script>
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
