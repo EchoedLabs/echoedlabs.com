@@ -12,10 +12,11 @@ portfolioItem :
   - types : intro
     image : images/programmes/oct18_chatbot_main.jpg
     icon : tf-ion-android-search
-    URL : #
+    URL : blog/intro-chatbots-oct-2018
     title : Intro to Chatbots
     description : We introduced chatbot development using Chatfuel to primary school students at Bukit Batok East CC.
     date: October 2018
+    duration : 3 hours
     partner:
         name: Bukit Batok CC
         image: images/partners/bukit_batok.jpg
@@ -23,10 +24,11 @@ portfolioItem :
   - types : intro
     image : images/programmes/may18_webdev_main.jpg
     icon : tf-ion-android-search
-    URL : blog/first-post
+    URL : blog/intro-webdev-mtc-may-2018
     title : Intro to Web Development
     description : This programme introduces the building blocks of web development with HTML, CSS, Javascript, and Bootstrap framework.
     date: May 2018
+    duration : 5 hours
     partner:
         name: Mosque Tech Challenge
         image: images/partners/mosque_tech_challenge.jpg
@@ -34,10 +36,11 @@ portfolioItem :
   - types : intro
     image : images/programmes/dec17_webdev_main.jpg
     icon : tf-ion-android-search
-    URL : #
+    URL : blog/intro-webdev-mendaki-dec-2017
     title : Intro to Web Development
     description : This programme introduces the building blocks of web development with HTML, CSS, Javascript, and Bootstrap framework.
     date: December 2017
+    duration : 8 hours
     partner:
         name: Mendaki Sense
         image: images/partners/mendaki_sense.jpg
@@ -45,10 +48,11 @@ portfolioItem :
   - types : bootcamp
     image : images/programmes/jun17_webdev_codette_main.jpg
     icon : tf-ion-android-search
-    URL : #
+    URL : blog/webdev-bootcamp-codette-jun-2017
     title : Web Development Bootcamp
     description : This was a 3-days programme that equipped the participants with HTML, CSS, Javascript, and Bootstrap framework skills.
     date: June 2017
+    duration: 6 hrs x 3 days
     partner:
         name: The Codette Project
         image: images/partners/codette.jpg
@@ -56,10 +60,11 @@ portfolioItem :
   - types : intro
     image : images/programmes/jun17_webdev_mendaki_main.jpg
     icon : tf-ion-android-search
-    URL : #
+    URL : blog/intro-webdev-mendaki-jun-2017
     title : Intro to Web Development
     description : This programme introduces the building blocks of web development with HTML, CSS, Javascript, and Bootstrap framework.
     date: June 2017
+    duration : 8 hours
     partner:
         name: Mendaki Sense
         image: images/partners/mendaki_sense.jpg
@@ -67,10 +72,11 @@ portfolioItem :
   - types : bootcamp
     image : images/programmes/dec16_webdev_main.jpg
     icon : tf-ion-android-search
-    URL : #
+    URL : blog/webdev-bootcamp-muhajirin-dec-2016
     title : Web Development Bootcamp
     description : This was a 3-day stay-in camp that equipped the participants with HTML, CSS, Javascript, and Bootstrap framework skills.
     date: December 2016
+    duration: 8 hrs x 3 days
     partner:
         name: Muhajirin Mosque
         image: images/partners/muhajirin.jpg
@@ -78,10 +84,11 @@ portfolioItem :
   - types : bootcamp
     image : images/programmes/dec15_webdev_main.jpg
     icon : tf-ion-android-search
-    URL : #
+    URL : blog/webdev-bootcamp-irsyad-dec-2015
     title : Web Development Bootcamp
     description : This was a 3-days day camp that equipped the participants with HTML, CSS, Javascript, and Bootstrap framework skills.
     date: December 2015
+    duration : 8 hrs x 3 days
     partner:
         name: Madrasah Al-Irsyad
         image: images/partners/irsyad.jpg

@@ -12,7 +12,7 @@ theme = "meghna-hugo"
     
     [[menu.nav]]
     name = "Courses"
-    URL = "services"
+    URL = "portfolio"
     weight = 3
 
     [[menu.nav]]
@@ -24,6 +24,7 @@ theme = "meghna-hugo"
 [params]
 home= "Home"
 logo = "images/logo.png"
+showLogo = false
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBI14J_PNWVd-m0gnUBkjmhoQyNyd7nllA"
 custom_css = ["css/custom.css"]
 
@@ -43,9 +44,9 @@ custom_css = ["css/custom.css"]
     [params.cta]
     enable = true
     title = "Engaging Workshops and Effective Bootcamps"
-    content = "We have been running coding workshops and bootcamps for children, teens and adults alike."
+    content = "We run custom coding workshops and bootcamps for children, teens and adults alike."
     btnURL = "#contact-us"
-    btnText = "Book a customised course with us"
+    btnText = "Book a course with us"
 
     # counter
     [params.counter]

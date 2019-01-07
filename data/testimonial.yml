@@ -1,17 +1,17 @@
 enable : true
-bgImage : images/backgrounds/map.png
+bgImage : images/backgrounds/bg-2.jpg
 testimonialItem :
   - name : Dzaiimah Hakim
     image : images/team/client-1.jpg
-    date : Web Dev Bootcamp Participant
+    description : Web Dev Bootcamp Participant
     content : The facilitators were all very kind, friendly and helpful. This workshop broadened my knowledge about technology and how all of the websites works. The demonstrators teach us with patience and also explains everything thoroughly.
     
   - name : Muhammad Syibliey
     image : images/team/client-1.jpg
-    date : Web Dev Bootcamp Participant
+    description : Web Dev Bootcamp Participant
     content : I LOVE THE WORKSHOP; everything about it - lessons, facilitators, projects, etc.
 
   - name : Muhd Ihsan Hakim
     image : images/team/client-2.jpg
-    date : Web Dev Bootcamp Participant
+    description : Web Dev Bootcamp Participant
     content : This camp is truly an eye-opener for me. I'm very interested in continuing this field after my 'O' levels.

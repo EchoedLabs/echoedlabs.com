@@ -1,6 +1,7 @@
 enable : true
 heading : Featured
 headingSpan : Course
+bgImage : images/backgrounds/map.png
 title : CodeHero @ Madrasah SG
 content : This is a year-long programme targetted to secondary school students in Madrasah that aims to equip them with essential web development skills.
 image : images/programmes/codehero_main.png
