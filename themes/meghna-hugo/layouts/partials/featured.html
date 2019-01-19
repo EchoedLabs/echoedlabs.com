@@ -26,8 +26,11 @@
                         {{ end }}
                         </ul>
                         <div class="featured-bottom">
-                            <a class="btn btn-transparent btn-default" href="{{ .Site.Data.featured.btnURL | absURL }}">{{ .Site.Data.featured.btnText }}</a>
-                            <p>Enrolment Ends<span>{{ .Site.Data.featured.enrolEndDate }}</span></p>
+                            <a class="btn btn-transparent disabled" href="{{ .Site.Data.featured.btnURL | absURL }}">
+                                <!-- {{ .Site.Data.featured.btnText }} -->
+                                Enrolment has ended!
+                            </a>
+                            <!-- <p>Enrolment ended on<span>{{ .Site.Data.featured.enrolEndDate }}</span></p> -->
                         </div>
                     </div>
 
