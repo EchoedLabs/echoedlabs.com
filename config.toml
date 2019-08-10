@@ -1,10 +1,10 @@
 baseURL = "//echoedlabs.com"
 languageCode = "en-us"
-title = "EchoedLabs - Empowering Youths with Tech Solutioning Skills"
+title = "EchoedLabs - Empowering Youths with Tech Solution-ing Skills"
 
 theme = "meghna-hugo"
 
-googleAnalytics = "UA-131583492-2"
+googleAnalytics = "UA-145420062-1"
 
 # Menu
 [menu]
